@@ -69,15 +69,25 @@ AI Prompt Engineer ("The Bollywood Movie Analysis")
 **Procedure:**
 
 Import necessary libraries for data analysis.
+
 Analysing the gender importants and how the gender has shown in the movie.
+
 Data cleaning for Machine Learning. 
+
 Plot the dataset with graph as a visual representation.
+
 Train the model with the dataset.
+
 Machine Learning model using LinearRegression.
+
 Find the accuracy of the model in testing the module.
+
 Check the input from user and get the ouput - Male_Female_Centrality.ipynb
+
 Comparision between two gender stereotypes with male and female like mentions and centrality.
+
 Input plot script from the user and to find the Gender bias presence and the count of the gender in the given passage.
+
 
 **Output**
 

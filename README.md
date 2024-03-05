@@ -4,7 +4,7 @@ AI Prompt Engineer ("The Bollywood Movie Analysis")
     
 **TRAILER**
 
-  **DATASET SOURCE:**
+  **DATASET:**
   Source: https://github.com/BollywoodData/Bollywood-Data
   
   **DESCRIPTION:**
@@ -26,7 +26,7 @@ AI Prompt Engineer ("The Bollywood Movie Analysis")
     
 **WIKIPEDIA**
 
-  **DATASET SOURCE:**
+  **DATASET:**
   
   Source: https://github.com/BollywoodData/Bollywood-Data
   
